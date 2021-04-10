@@ -1,5 +1,8 @@
 # Front End Starter - TypeScript Stack
 
+### Installation
+Copy this template using your Git client of choice, once cloned run `npm install` in the root directory.
+
 ### Summary
 
 This project serves as a template for getting a TypeScript based front-end development
