@@ -20,9 +20,9 @@ project started. It includes the following frameworks, libraries and languages t
 * Bootstrap
 
 ### NPM Scripts
-* **Test:** `npm run test` : Empty
 * **Build** `npm run build` : Complete build - calls webpack and sass in one script
+* **Node http Server** `npm devserver` : Starts a local node development server
+* **Watchful Webpack** `npm webpack-watch` 
 * **Webpack** `npm run webpack` : Builds only webpack
 * **Watchful SASS** `npm run sass-watch` : Real-time compilation for SASS
 * **SASS Compile** `npm run sass-compile` : Discrete SASS compilation
-* **Spawn HTTP Server** `http-server` : This lets you serve the app
