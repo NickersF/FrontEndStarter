@@ -26,3 +26,7 @@ project started. It includes the following frameworks, libraries and languages t
 * **Webpack** `npm run webpack` : Builds only webpack
 * **Watchful SASS** `npm run sass-watch` : Real-time compilation for SASS
 * **SASS Compile** `npm run sass-compile` : Discrete SASS compilation
+
+### Updated 11/4/2021
+Added 'source-map-loader' for webpack
+Updated webpack configuration for better in browser debugging
